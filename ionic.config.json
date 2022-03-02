@@ -1,0 +1,7 @@
+{
+  "name": "examen3.0mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
